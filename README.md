@@ -68,3 +68,4 @@ npm run dev
   <li> <b>GET</b> /api/genres </li>
 </ul>
 
+<h2> Author - Khushal Rajoria </h2>
